@@ -62,7 +62,9 @@ The goal is to give each important semantic category a recognizable visual role.
 
 ### VS Code Marketplace
 
-Search for:
+Install **Abyssal** directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=VishnuKothakapu.abyssal-focused).
+
+Or search for:
 
 **Abyssal**
 
@@ -77,6 +79,10 @@ Then:
 5. Open the Color Theme selector.
 6. Select **Abyssal**.
 
+### Open VSX
+
+Abyssal is also available through [Open VSX](https://open-vsx.org/extension/vishnukothakapu/abyssal-focused).
+
 ### VSIX
 
 You can also install Abyssal manually using a `.vsix` package.
@@ -85,7 +91,7 @@ In VS Code:
 
 ```text
 Ctrl + Shift + P
-````
+```
 
 Then run:
 
