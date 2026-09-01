@@ -1,0 +1,14 @@
+.vscode/
+.git/
+.gitignore
+
+node_modules/
+
+test/
+coverage/
+
+*.vsix
+
+*.log
+
+.github/

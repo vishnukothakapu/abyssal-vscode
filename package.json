@@ -1,0 +1,49 @@
+{
+  "name": "abyssal",
+  "displayName": "Abyssal",
+  "description": "A deep, low-noise dark theme designed for long coding sessions.",
+  "version": "0.1.0",
+  "publisher": "vishnukothakapu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishnukothakapu/abyssal-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishnukothakapu/abyssal-vscode/issues"
+  },
+  "homepage": "https://github.com/vishnukothakapu/abyssal-vscode",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "developer theme",
+    "coding theme",
+    "minimal",
+    "dark",
+    "abyssal",
+    "programming"
+  ],
+  "galleryBanner": {
+    "color": "#070B14",
+    "theme": "dark"
+  },
+  "icon": "images/abyssal-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyssal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abyssal-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
+  }
+}

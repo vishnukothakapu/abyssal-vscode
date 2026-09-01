@@ -1,0 +1,38 @@
+{
+  "name": "abyssal",
+  "version": "0.1.0",
+  "description": "A developer-focused dark VS Code theme",
+  "author": {
+    "name": "Vishnu Kothakapu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark-theme",
+    "developer"
+  ],
+  "settings": {
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.5,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on"
+  },
+  "features": {
+    "semanticHighlighting": true,
+    "terminalColors": true,
+    "gitDecorations": true,
+    "diagnostics": true
+  },
+  "colors": {
+    "background": "#070B14",
+    "surface": "#0F172A",
+    "border": "#334155",
+    "foreground": "#D9E2F2",
+    "accent": "#67E8F9",
+    "success": "#86EFAC",
+    "warning": "#FDE68A",
+    "error": "#FB7185"
+  }
+}
