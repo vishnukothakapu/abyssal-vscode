@@ -223,19 +223,19 @@ Testing focuses on:
 
 ### Editor
 
-![Abyssal Editor](images/screenshot-1.png)
+![Abyssal Editor](images/screenshot-editor.png)
 
 ### Multi-language Support
 
-![Abyssal Multi-language Support](images/screenshot-full.png)
+![Abyssal Multi-language Support](images/screenshot-languages.png)
 
 ### Full VS Code Experience
 
-![Abyssal VS Code UI](images/screenshot-2.png)
+![Abyssal VS Code UI](images/screenshot-ui.png)
 
 ### Terminal and Git
 
-![Abyssal Terminal and Git](images/screenshot-3.png)
+![Abyssal Terminal and Git](images/screenshot-terminal.png)
 
 ---
 
